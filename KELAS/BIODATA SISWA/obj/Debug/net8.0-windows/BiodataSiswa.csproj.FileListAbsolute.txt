@@ -1,0 +1,16 @@
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\bin\Debug\net8.0-windows\BiodataSiswa.exe
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\bin\Debug\net8.0-windows\BiodataSiswa.deps.json
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\bin\Debug\net8.0-windows\BiodataSiswa.runtimeconfig.json
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\bin\Debug\net8.0-windows\BiodataSiswa.dll
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\bin\Debug\net8.0-windows\BiodataSiswa.pdb
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.Form1.resources
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.csproj.GenerateResource.cache
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.AssemblyInfoInputs.cache
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.AssemblyInfo.cs
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.dll
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\refint\BiodataSiswa.dll
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.pdb
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\BiodataSiswa.genruntimeconfig.cache
+C:\Users\Akbar\Downloads\Biodata Siswa\BIODATA SISWA\obj\Debug\net8.0-windows\ref\BiodataSiswa.dll
