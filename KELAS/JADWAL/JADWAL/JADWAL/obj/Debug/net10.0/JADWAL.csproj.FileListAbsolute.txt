@@ -1,0 +1,14 @@
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\bin\Debug\net10.0\JADWAL.exe
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\bin\Debug\net10.0\JADWAL.deps.json
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\bin\Debug\net10.0\JADWAL.runtimeconfig.json
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\bin\Debug\net10.0\JADWAL.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\bin\Debug\net10.0\JADWAL.pdb
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.AssemblyInfoInputs.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.AssemblyInfo.cs
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\refint\JADWAL.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.pdb
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\JADWAL.genruntimeconfig.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\JADWAL\JADWAL\JADWAL\obj\Debug\net10.0\ref\JADWAL.dll
