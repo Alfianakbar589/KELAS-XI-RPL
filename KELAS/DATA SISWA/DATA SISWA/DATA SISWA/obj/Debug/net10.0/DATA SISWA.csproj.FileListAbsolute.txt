@@ -1,0 +1,14 @@
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\bin\Debug\net10.0\DATA SISWA.exe
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\bin\Debug\net10.0\DATA SISWA.deps.json
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\bin\Debug\net10.0\DATA SISWA.runtimeconfig.json
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\bin\Debug\net10.0\DATA SISWA.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\bin\Debug\net10.0\DATA SISWA.pdb
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.AssemblyInfoInputs.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.AssemblyInfo.cs
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.csproj.CoreCompileInputs.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\refint\DATA SISWA.dll
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.pdb
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\DATA SISWA.genruntimeconfig.cache
+C:\Users\Akbar\Documents\KELAS XI RPL\KELAS\DATA SISWA\DATA SISWA\DATA SISWA\obj\Debug\net10.0\ref\DATA SISWA.dll
